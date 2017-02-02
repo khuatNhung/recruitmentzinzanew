@@ -1,0 +1,19 @@
+.content-wrapper {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.search_recruitment{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	padding-left: 10px;
+}
+.search-cv{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.datepicker {
+    border-radius: 0px;
+    padding: 0px;
+    width: 120px;
+}
